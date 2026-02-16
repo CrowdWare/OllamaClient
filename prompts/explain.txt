@@ -1,0 +1,6 @@
+Explain the code clearly.
+Describe:
+- purpose
+- execution flow
+- important functions
+- possible side effects
